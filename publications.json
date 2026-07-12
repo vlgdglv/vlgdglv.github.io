@@ -1,0 +1,25 @@
+[
+  {
+    "year": "2026",
+    "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+    "authors": "Y. Jiang, H. Wang, H. Bao, K. Jiang, J. Chen, J. Zhu, F. Fu, J. Zhang",
+    "venue": "arXiv 2026",
+    "links": [
+      { "label": "arXiv", "url": "https://arxiv.org/abs/2606.19271" }
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Alleviating Performance Degradation Caused by Out-of-Distribution Issues in Embedding-Based Retrieval",
+    "authors": "H. Bao, J. Zhang, Q. Chen, W. Han, Z. Zeng, R. Chang, M. Li, H. Sun, W. Deng, et al.",
+    "venue": "EMNLP 2025",
+    "links": []
+  },
+  {
+    "year": "2024",
+    "title": "LogEDL: Log Anomaly Detection via Evidential Deep Learning",
+    "authors": "Y. Duan, K. Xue, H. Sun, H. Bao, Y. Wei, Z. You, Y. Zhang, X. Jiang, S. Yang, et al.",
+    "venue": "Applied Sciences 14(16), 7055",
+    "links": []
+  }
+]
