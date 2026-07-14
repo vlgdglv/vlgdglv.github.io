@@ -1,6 +1,15 @@
 [
   {
     "year": "2026",
+    "title": "HybridSparse: An End-to-End Hybrid Framework for Efficient Large-Scale Retrieval",
+    "authors": "Haotong Bao, Jianjin Zhang, Weihao Han, Xue Wu, Qi Chen, Dongzhe Jiang, Zhengxin Zeng, Mingzheng Li, Hao Sun, Weiwei Deng, Feng Sun, Qi Zhang",
+    "venue": "ACM SIGIR 2026",
+    "links": [
+      { "label": "paper", "url": "https://dl.acm.org/doi/abs/10.1145/3805712.3808415" }
+    ]
+  },
+  {
+    "year": "2026",
     "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
     "authors": "Y. Jiang, H. Wang, H. Bao, K. Jiang, J. Chen, J. Zhu, F. Fu, J. Zhang",
     "venue": "arXiv 2026",
